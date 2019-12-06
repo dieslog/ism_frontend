@@ -8,3 +8,5 @@
 ###### Useful information
 * https://material.io/design/layout/responsive-layout-grid.html#grid-customization
 * https://getbootstrap.com/docs/4.0/layout/grid/#grid-options
+
+_P.S. I always used only divs for layout. Now i’m learning semantic tags._
