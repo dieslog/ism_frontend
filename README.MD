@@ -2,6 +2,8 @@
 
 **Curator email**: fed@ism-ukraine.com
 
+**My email**: dieslog@gmail.com
+
 ###### Tasks
 * https://app.zeplin.io/project/5dda7528faa16399829b2c50/screen/5de2b1338b1a307c2ca3f20c
 
