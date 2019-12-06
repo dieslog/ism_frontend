@@ -10,5 +10,6 @@
 ###### Useful information
 * https://material.io/design/layout/responsive-layout-grid.html#grid-customization
 * https://getbootstrap.com/docs/4.0/layout/grid/#grid-options
+* https://html5book.ru/html5-semantic-elements/#part9
 
 _P.S. I always used only divs for layout. Only now I am studying semantic tags._
